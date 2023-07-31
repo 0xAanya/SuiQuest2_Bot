@@ -1,4 +1,4 @@
-![Screenshot 2023-07-31 192138](https://github.com/0xAanya/SuiQuest2_Bot/assets/95902545/4958f918-2a30-4b63-82cc-ecdeeee7c4d0)## SUI Quest 2 Bot
+## SUI Quest 2 Bot
 
 # Description
 SUI Quest 2 Bot is an onchain tx bot that is designed to increase your chances in Quest 2 . If u miss Quest 1 5555 SUI dont miss Your chance of Quest 2 !! This bot interacts with `https://app.scallop.io/` .
