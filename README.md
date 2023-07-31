@@ -6,11 +6,17 @@ SUI Quest 2 Bot is an onchain tx bot that is designed to increase your chances i
 **🌟 Features Perform All the DApp TXs in Under 2 Minutes ⏱️**
 
 🔗 Seamlessly interact with SUI Quest 2 platform
+
 💬 Instantly Get Obligations
+
 💼 Deposit & Withdraw Collateral
+
 💰 Deposit & Withdraw Assets
+
 📝 Borrow & Repay Assets
+
 💸 Experience Flash Loans
+
 👉🏼 Automate TXs Effortlessly! ⚡️
 
 Highly Customized bot for onchain Tx and interaction with the Daap ! and get the most Points so dont miss this opportunity to get in the top Players and earn Free Sui !
