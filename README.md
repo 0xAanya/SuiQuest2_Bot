@@ -32,7 +32,9 @@ These are the demo images of the bot more bots will be coming in the future !! S
 **Community & Support** :
 
 **Telegram :** https://t.me/anaya0x
+
 **Discord :** https://discordapp.com/users/1130931717067243562
+
 **Telegram Channel :** https://t.me/suiquest2
 
  #SUIQuest2Bot #Blockchain #Crypto #Quest2 #Sui_Quest_2 #SuiQuest 
