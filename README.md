@@ -21,6 +21,8 @@ SUI Quest 2 Bot is an onchain tx bot that is designed to increase your chances i
 
 Highly Customized bot for onchain Tx and interaction with the Daap ! and get the most Points so dont miss this opportunity to get in the top Players and earn Free Sui !
 
+**Youtube link :** https://youtu.be/URYnullyotM
+
 ![image](https://github.com/0xAanya/SuiQuest2_Bot/assets/95902545/52bb0d9c-9c3c-4704-887b-2752e1a9e5db)
 
 => Any using the This bot since day one running for some hrs also can get Under 100-1000 easily Dont miss this chance ! [you can also run Multiple accounts / instances under one bot ] 
